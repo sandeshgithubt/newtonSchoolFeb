@@ -1,7 +1,7 @@
 # newtonSchoolFeb
-Newton School
 
 
-## Assignment solution of Newton School  
 
-##  with JAVA+DSA
+## Assignment solution of Newton School 
+##  Including JAVA+DSA Solution
+
